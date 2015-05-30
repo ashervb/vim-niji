@@ -1,5 +1,9 @@
-Version: 1.0.6  
+Version: 1.0.6
 Last Change: 2014 Dec 18
+
+Note
+------------
+All credit goes to the [original author](http://github.com/amdt/) who's repo seems to have disappeared.
 
 虹
 =
@@ -29,7 +33,7 @@ If you don’t already have a preferred manager, I recommend installing
 Niji to your `.vimrc`:
 
 ```vim
-Plugin 'amdt/vim-niji'
+Plugin 'exitface/vim-niji'
 ```
 
 And install:
@@ -47,7 +51,7 @@ shell, for example:
 
 ```Shell
 cd ~/.vim/bundle
-git clone git://github.com/amdt/vim-niji.git
+git clone git://github.com/exitface/vim-niji.git
 ```
 
 ### Other
